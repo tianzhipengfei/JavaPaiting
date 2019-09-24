@@ -1,2 +1,7 @@
 # JavaPaiting
-An application of painting for Java homework
+This is an application of painting for Java homework.
+
+Get started
+
+git clone 
+Open this project with IDEA, and run Main.jav
